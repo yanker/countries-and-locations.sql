@@ -13,8 +13,6 @@
 [![MIT License][license-shield]][license-url]
 
 <br>
-
-
 # LINKED TABLES (country, community/state, province, municipalities)
 
 > Tables linked by country, community/state, province, locations.
@@ -77,7 +75,8 @@ Now, Select your country in src/ and import in the database in the order exactly
 
 ## Countries Availables
 ---
-src/es --> Spain
+src/spain --> Spain
+src/eeuu  --> United States
 
 <br>
 
