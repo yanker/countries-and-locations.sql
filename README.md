@@ -13,6 +13,7 @@
 [![MIT License][license-shield]][license-url]
 
 <br>
+
 # LINKED TABLES (country, community/state, province, municipalities)
 
 > Tables linked by country, community/state, province, locations.
